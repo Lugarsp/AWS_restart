@@ -1,0 +1,14 @@
+#!/bin/bash
+
+name="Caio"
+
+last_number=$(ls ${name}* | sort -V | tail -n 1 | grep -o -E '[0-9]+')
+
+if [ -z "$last_number" ]; then
+   last_number=0
+fi
+
+for i in $(seq 01 25); do
+   touch "${name}$((last_number + i))"
+done
+
