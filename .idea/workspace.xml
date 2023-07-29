@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="372adde3-96d1-4951-8491-09f7c14bea56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Python/Atividade2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/arquivo_teste.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/files/car_fleet.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/files/insulin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab11_string-insulin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab12_net-charge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab13_caesar-cipher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab14_calc_weight_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab14_jsonFileHandler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab1_hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab2_numeric-data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab3_string-data-type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab4_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab5_categorize-values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab6_composite-data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab7_conditionals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/lab8_while-loop.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Python" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2TDvpsPRscwdKjBNU03uYdg5YKG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="372adde3-96d1-4951-8491-09f7c14bea56" name="Changes" comment="" />
+      <created>1690590652945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690590652945</updated>
+    </task>
+    <servers />
+  </component>
+</project>
